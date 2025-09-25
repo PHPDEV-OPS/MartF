@@ -1,6 +1,6 @@
 # MartF
 
-**MartF** is a multivendor e-commerce platform built in PHP (Laravel) + Vue.js. It allows multiple vendors to register, list products, and receive orders, while giving the site owner/admin control over the marketplace.
+**MartF** is a multivendor e-commerce platform built in PHP (Laravel) + Vue.js + Blade. It allows multiple vendors to register, list products, and receive orders, while giving the site owner/admin control over the marketplace.
 
 ---
 
